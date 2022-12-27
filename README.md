@@ -10,3 +10,7 @@ Quine-McCluskey algorithm provides more systematic approach than Karnaugh Map me
 The goal of this project is to create a computational simulation of Quine-McCluskey algorithm using C/C++.
 
 *** For futher detail, please check "report.pdf"
+
+## Limitations and further improvements
+- Enable more than 5 variable using variable-length array
+- Solving minimum sum-of-products using Petrick's method

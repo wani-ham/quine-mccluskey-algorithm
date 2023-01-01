@@ -9,7 +9,7 @@ However, when the number of variables become larger, additional method is requir
 Quine-McCluskey algorithm provides more systematic approach than Karnaugh Map method. Therefore, it enables the usage of computer. 
 The goal of this project is to create a computational simulation of Quine-McCluskey algorithm using C/C++.
 
-*** For futher detail, please check "report.pdf"
+*** For more detail, please check "report.pdf"
 
 ## Limitations and further improvements
 - Enable more than 5 variable using variable-length array

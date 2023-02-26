@@ -1,6 +1,6 @@
 # Computational Simulation of Quine-McCluskey Algorithm using C/C++
 
-* This project was made in undergraduate course "Digital Logic Circuits" (EEE2040.01-00) at Yonsei University. (2022-2)
+* Project from an undergraduate course "Digital Logic Circuits" (EEE2040.01-00) at Yonsei University. (2022-2)
 
 ## Abstract
 
